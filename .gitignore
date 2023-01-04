@@ -1,0 +1,4 @@
+*.o
+List/*.o
+Stack/*.o
+Universal/*.o
