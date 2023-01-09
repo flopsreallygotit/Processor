@@ -10,6 +10,7 @@ CXXFLAGS ?= -Wall -Wextra -ggdb3
 SOURCES = Universal/universalUtils.cpp Universal/textUtils.cpp \
 		  Stack/stackUtils.cpp 								   \
 		  List/listUtils.cpp 								   \
+		  main.cpp
 
 # Configure directory flags.
 DIRFLAGS = -IUniversal -IStack -IList 
